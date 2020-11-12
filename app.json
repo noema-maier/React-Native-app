@@ -1,0 +1,12 @@
+{
+  "name": "ProjectPacketPal",
+  "displayName": "ProjectPacketPal",
+  "expo": {
+    "name": "ProjectPacketPal",
+    "slug": "ProjectPacketPal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
